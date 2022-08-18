@@ -1,3 +1,5 @@
+![FontFixer logo](https://raw.githubusercontent.com/Cyber28/FontFixer/main/icon.png)
+
 # Font Fixer
 
 This mod replaces the CJK (Chinese, Japanese, Korean) fonts with dynamic ones.
@@ -6,7 +8,7 @@ This mod replaces the CJK (Chinese, Japanese, Korean) fonts with dynamic ones.
 
 The fonts in the game only include characters which are used by the game. If a mod wants to use a character that isn't already used in the game, it will display as an empty square.
 
-insert images here
+![example image](https://cdn.discordapp.com/attachments/855186899048071178/1009807461487743048/fontfixed.png)
 
 ## The fonts look a bit different, why is that?
 
