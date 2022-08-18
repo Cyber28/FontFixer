@@ -1,0 +1,9 @@
+{
+	"name": "FontFixer",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Cyber28/Stacklands-FontFixer",
+	"description": "Replaces the CJK (Chinese, Japanese, Korean) fonts with dynamic ones to fix broken characters",
+	"dependencies": [
+		"BepInEx-BepInExPack_Stacklands-5.4.2100"
+	]
+}

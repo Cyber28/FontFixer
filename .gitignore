@@ -1,0 +1,5 @@
+bin/
+obj/
+FontFixer.csproj.user
+scripts/
+distribute.py
